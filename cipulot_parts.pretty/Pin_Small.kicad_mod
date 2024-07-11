@@ -1,0 +1,9 @@
+(module Pin_Small (layer F.Cu) (tedit 61C38817)
+  (fp_text reference REF** (at 0 -1.3716) (layer F.SilkS)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value Pin_Small (at 0.0254 1.524) (layer F.Fab) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (pad 1 thru_hole circle (at 0.00424 -0.01058) (size 1.397 1.397) (drill 0.8128) (layers *.Cu *.Mask F.SilkS))
+)
